@@ -1,0 +1,10 @@
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\bin\Debug\FirmwareUpdater.exe.config
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\bin\Debug\FirmwareUpdater.exe
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\bin\Debug\FirmwareUpdater.pdb
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.csproj.AssemblyReference.cache
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.Form1.resources
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.Properties.Resources.resources
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.csproj.GenerateResource.cache
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.csproj.CoreCompileInputs.cache
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.exe
+C:\Users\shili\source\repos\FirmwareUpdater\FirmwareUpdater\obj\Debug\FirmwareUpdater.pdb
